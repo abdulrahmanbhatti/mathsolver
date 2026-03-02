@@ -1,0 +1,6 @@
+streamlit
+groq
+matplotlib
+numpy
+Pillow
+python-dotenv
